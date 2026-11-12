@@ -30,16 +30,23 @@ I'm focused on backend development with **C# and .NET**. I learn by building pra
 - LINQ, dependency injection, and clean code
 - Building Telegram bots with C#
 
+## 🚀 Featured Project
+
+### [ToDoList API](https://github.com/sayfiddinyoldoshev66-code/ToDolist)
+
+A task-management REST API built with ASP.NET Core Web API, Entity Framework Core, and SQLite.
+
+- CRUD operations for tasks
+- Request validation with Data Annotations
+- Asynchronous database operations
+- SQLite data persistence
+
 ## 📊 GitHub Stats
 
 <p align="left">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=sayfiddinyoldoshev66-code&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayfiddinyoldoshev66-code&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
-
-## 🚀 Projects
-
-I'm currently developing and organizing my project portfolio. More project descriptions and source-code links will be added as repositories are ready to showcase.
 
 ## 🎯 Goal
 
