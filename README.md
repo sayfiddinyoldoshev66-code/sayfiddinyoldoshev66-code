@@ -1,54 +1,88 @@
-# Xumoyun Sayfutdinov
+<h1 align="center">Hey, I'm Xumoyun 👋</h1>
 
-**Junior .NET Backend Developer | C# | ASP.NET Core | REST APIs**
+<h3 align="center">Junior .NET Backend Developer · C# · ASP.NET Core</h3>
 
-I'm a developer based in Nurafshon, Uzbekistan, currently studying .NET development and preparing for my PDP Academy graduation project defense. I focus on building practical backend applications and improving my skills through hands-on projects.
+<p align="center">
+  <a href="https://github.com/sayfiddinyoldoshev66-code?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/></a>
+  <a href="mailto:sayfiddinyoldoshev66@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-## Tech stack
-
-- **Backend:** C#, .NET 10, ASP.NET Core Web API
-- **Data:** Entity Framework Core, SQL, SQLite; familiar with SQL Server
-- **API development:** RESTful endpoints, CRUD operations, DTOs, request validation, async/await
-- **Tools:** Git, GitHub, Visual Studio, VS Code
-- **Frontend basics:** HTML, CSS, JavaScript
-
-## Featured projects
-
-### [ToDoList API](https://github.com/sayfiddinyoldoshev66-code/ToDolist)
-Task-management REST API built with ASP.NET Core, Entity Framework Core and SQLite.
-
-- Create, read, update and delete tasks
-- Request validation using Data Annotations
-- Asynchronous database access
-- HTTP status codes for API responses
-
-**Stack:** C#, .NET 10, ASP.NET Core, EF Core, SQLite
-
-### [YashilYo'l](https://github.com/sayfiddinyoldoshev66-code/YASHIL-YO-L)
-Graduation project concept for QR-based electric scooter and bicycle rentals in Tashkent.
-
-- Responsive product website with interactive station map and fare calculator
-- Project presentation and defense materials
-- **Backend API is being developed separately; it is not yet published in this repository**
-
-**Published stack:** HTML, CSS, JavaScript
-
-## Currently working on
-
-- Completing and testing the YashilYo'l backend API
-- Preparing for the PDP Academy graduation defense
-- Improving API design, database modeling and software engineering practices
-
-## Languages
-
-- Uzbek — native
-- Russian — B2
-- English — B1
-
-## Contact
-
-- **Email:** [sayfiddinyoldoshev66@gmail.com](mailto:sayfiddinyoldoshev66@gmail.com)
-- **GitHub:** [sayfiddinyoldoshev66-code](https://github.com/sayfiddinyoldoshev66-code)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sayfiddinyoldoshev66-code&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+</p>
 
 ---
-*Building, learning, and improving one project at a time.*
+
+### 👨‍💻 About me
+
+I'm a backend-focused developer from **Nurafshon, Uzbekistan**, building applications with **C# and ASP.NET Core**. I'm preparing for my PDP Academy graduation defense and improving my skills by shipping small, practical projects.
+
+- 🔭 **Working on:** YashilYo'l — a micro-mobility rental project
+- 🌱 **Learning:** REST API design, Entity Framework Core, SQL and clean architecture fundamentals
+- 🛠️ **Interested in:** backend development, database design and maintainable APIs
+- 🌍 **Languages:** Uzbek (native) · Russian (B2) · English (B1)
+- 🎯 **Goal:** Junior .NET Backend Developer opportunities
+
+### 🧰 Tech stack
+
+**Backend & databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,sqlite" alt="C#, .NET, SQLite" />
+</p>
+
+**Tools & web fundamentals**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,html,css,js" alt="Git, GitHub, Visual Studio, VS Code, HTML, CSS, JavaScript" />
+</p>
+
+`ASP.NET Core Web API` · `Entity Framework Core` · `REST APIs` · `SQL` · `CRUD` · `async/await`
+
+### 🚀 Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[📋 ToDoList API](https://github.com/sayfiddinyoldoshev66-code/ToDolist)**
+
+A REST API for task management, built with ASP.NET Core and EF Core.
+
+- Task CRUD endpoints
+- Data Annotations validation
+- Async database operations
+- SQLite persistence
+
+**Stack:** C# · .NET 10 · ASP.NET Core · EF Core · SQLite
+
+</td>
+<td width="50%" valign="top">
+
+**[🛴 YashilYo'l](https://github.com/sayfiddinyoldoshev66-code/YASHIL-YO-L)**
+
+A micro-mobility rental product concept for Tashkent, with a responsive web prototype.
+
+- Interactive station map
+- Fare calculator
+- Project presentation materials
+- Backend API in progress (not yet published here)
+
+**Published stack:** HTML · CSS · JavaScript
+
+</td>
+</tr>
+</table>
+
+### 📈 GitHub activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sayfiddinyoldoshev66-code&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayfiddinyoldoshev66-code&layout=compact&hide_border=true&theme=transparent" alt="Most used repository languages" height="165"/>
+</p>
+
+<sub>Statistics are generated by a third-party service and may occasionally be unavailable. Repository languages reflect published code, not overall proficiency.</sub>
+
+---
+
+<p align="center"><i>Keep learning. Keep building. Let the code speak.</i></p>
