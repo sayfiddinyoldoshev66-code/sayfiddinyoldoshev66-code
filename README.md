@@ -1,57 +1,54 @@
-# Hi, I'm Xumoyun Sayfutdinov 👋
+# Xumoyun Sayfutdinov
 
-### Aspiring .NET Backend Developer | C# | ASP.NET Core
+**Junior .NET Backend Developer | C# | ASP.NET Core | REST APIs**
 
-I'm focused on backend development with **C# and .NET**. I learn by building practical applications, exploring APIs, and improving my software engineering fundamentals.
+I'm a developer based in Nurafshon, Uzbekistan, currently studying .NET development and preparing for my PDP Academy graduation project defense. I focus on building practical backend applications and improving my skills through hands-on projects.
 
-<p align="left">
-  <a href="https://github.com/sayfiddinyoldoshev66-code">
-    <img src="https://img.shields.io/badge/GitHub-sayfiddinyoldoshev66--code-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-.NET%20Backend-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Backend" />
-</p>
+## Tech stack
 
-## 🛠️ Tech Stack
+- **Backend:** C#, .NET 10, ASP.NET Core Web API
+- **Data:** Entity Framework Core, SQL, SQLite; familiar with SQL Server
+- **API development:** RESTful endpoints, CRUD operations, DTOs, request validation, async/await
+- **Tools:** Git, GitHub, Visual Studio, VS Code
+- **Frontend basics:** HTML, CSS, JavaScript
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C sharp" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
-  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework Core" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
-## 🌱 Currently Learning
-
-- Designing RESTful APIs with ASP.NET Core Web API
-- Entity Framework Core and relational databases
-- LINQ, dependency injection, and clean code
-- Building Telegram bots with C#
-
-## 🚀 Featured Project
+## Featured projects
 
 ### [ToDoList API](https://github.com/sayfiddinyoldoshev66-code/ToDolist)
+Task-management REST API built with ASP.NET Core, Entity Framework Core and SQLite.
 
-A task-management REST API built with ASP.NET Core Web API, Entity Framework Core, and SQLite.
+- Create, read, update and delete tasks
+- Request validation using Data Annotations
+- Asynchronous database access
+- HTTP status codes for API responses
 
-- CRUD operations for tasks
-- Request validation with Data Annotations
-- Asynchronous database operations
-- SQLite data persistence
+**Stack:** C#, .NET 10, ASP.NET Core, EF Core, SQLite
 
-## 📊 GitHub Stats
+### [YashilYo'l](https://github.com/sayfiddinyoldoshev66-code/YASHIL-YO-L)
+Graduation project concept for QR-based electric scooter and bicycle rentals in Tashkent.
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sayfiddinyoldoshev66-code&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayfiddinyoldoshev66-code&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+- Responsive product website with interactive station map and fare calculator
+- Project presentation and defense materials
+- **Backend API is being developed separately; it is not yet published in this repository**
 
-## 🎯 Goal
+**Published stack:** HTML, CSS, JavaScript
 
-To grow into a strong .NET Backend Developer by building useful applications, writing maintainable code, and learning continuously.
+## Currently working on
+
+- Completing and testing the YashilYo'l backend API
+- Preparing for the PDP Academy graduation defense
+- Improving API design, database modeling and software engineering practices
+
+## Languages
+
+- Uzbek — native
+- Russian — B2
+- English — B1
+
+## Contact
+
+- **Email:** [sayfiddinyoldoshev66@gmail.com](mailto:sayfiddinyoldoshev66@gmail.com)
+- **GitHub:** [sayfiddinyoldoshev66-code](https://github.com/sayfiddinyoldoshev66-code)
 
 ---
-
-<p align="center"><i>Always learning. Always building.</i></p>
+*Building, learning, and improving one project at a time.*
